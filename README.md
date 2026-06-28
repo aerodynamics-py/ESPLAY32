@@ -1,5 +1,8 @@
 # ESPLAY32
 
+<img width="724" height="543" alt="ESPLAY32" src="https://github.com/user-attachments/assets/2e6583c0-9861-40a8-be28-12a0f0313f2b" />
+
+
 **ESPLAY32** is a small touchscreen multi-game platform built for the **Elecrow ESP32-S3 HMI 7" / CrowPanel 7.0"**.
 
 It runs on an **800×480 RGB display**, uses the integrated **GT911 capacitive touchscreen**, and is written with **PlatformIO / Arduino** and **LovyanGFX**.
