@@ -9,6 +9,10 @@ It runs on an **800×480 RGB display**, uses the integrated **GT911 capacitive t
 
 The project is designed as a modular mini-console: a shared home screen lists all available games, each game is implemented in its own class, and the `GameManager` handles navigation between the home screen and the active game.
 
+Check on the HACSKTER.IO associated project : https://www.hackster.io/aerodynamics/esplay32-224d98
+
+<img width="459" height="306" alt="P1100505" src="https://github.com/user-attachments/assets/07baf042-12bd-47ab-916d-a06895ed9cb2" />
+
 Current games:
 
 * **ARC-EN-CIEL**
